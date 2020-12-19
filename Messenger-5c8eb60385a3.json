@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "messenger-53418",
+  "private_key_id": "5c8eb60385a3b563fbbbc2debfc2bbf5f29c93c4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDLdBK0zciiQQev\nmMzOGJfKqelOCbmsGWDi7lnpArhOfwAzHpy1feIa0z6+dVz2V9V5Aqyxqe2HCzPJ\nnp5ZT6QUb2GCQaPkpUv6uK01RtG0O2RCVZIaIKWUps6p5h7fAfVnnDsVc+0FM/cp\nuiNT8hLl1ZlRslZoIG00NrSELegQJ8GmweEqHsi0en1bS83SDI42wrz5IOl89syw\n+iCv7HsQa47BHIE4W74HlcCK+3z/UqC3nF/RR4dY2/sd8gIRoB41W9FNz5NIeuuo\nFKDmjW6zJa9Aj9Z1tuHHnKamajtkAGbEw/XEVAxI5tYfvY6ySeS196kUAH3aJQI/\nCT53QYmxAgMBAAECggEAEVk0IHoM/1Y/kIfyrCmer+et1Dtcu2xtPYyI2tH3jgH4\nWLjl201WUrvr9Wj5OgGisK87XemZLn2/DGnbziPOCva1wC9WtAWAUBXKoeizCFpU\nIe/oBcBTk4m8b50GyYoCN16JZI/pCHDg74xGvOlpwR1l9c3DiRzSvbQNz9jrmTeT\nsR2j6lepY02z986WnNDAp5GRqAeThYgUDVnhipttWUWaTStZNgsm7Tb2lhMknbX7\nacabVrEXU4u+hjZm65RMbaVxC4WJnpbM7kTQ29EBqyJAY+egdf93+BfqQ220wicW\nC1rcJIMvzfU/dQLOTz4UDLRYzPYkOpeVA3QOnERwnQKBgQDtb8a8HSc0+XSUg1Cx\ntTfCrfLYNy6BxmVfAyYjaPxegzp1qeiKWtKgXbW+nLpj8DNSPTN6Chj3dV/410D9\nyL15yJG0MzM62pGeOz43IrQWkYrXDft0feWfbAXlurLV6EIBQXMwOanI3HhismDf\n6kh1XMRL2xNzjih1Faqj/6nabwKBgQDbXCH9bRCSLLQQz+xmpE3syvdi84SDTQpy\nPYVembPIOshGPSoslQxJJpbjmlfhJbmSn6MKRlR59l67t0O9PBRA/WbIJNSEVvy7\nhJvwVx5AGvNqoPry/P9E2f+caPJA23pYRN2wqnj1JLTPlaHLgHLFJQ0PMbyIxj7+\nWxXLJeVt3wKBgQCkpexEKlszywBitCTS9n1yTLmn4awoZfGJz181Eupeh9WUHnyY\n5J5GgnUzdu9xufF8x9/YcwQZJZWls27oDboGp2USdqbB2ys7dI2SIkiLleWXd6S1\nhVAkGv6D7dFxsBuFT2OXP4VTOj9pAZVX8NjKOcgNah+09BFuD9ZC31ljlQKBgQCT\n4drwVNS1FvoV03bWA7KdDoAU74LIWenO9naxPgGb3TUjVRzXjWwI7MEQk/7mxF4E\n4SYzSRKuXk+jUXuTWat13N+r0liLF3GuoUnXj4PPR9wOaJSFt9YH/sd6FK4s10n1\ntAeYkHSXH7XdtEytOt0k10OkmK03sB7Lr3BT0iqIFQKBgEfptcZcZQMYwQlNQotD\nQNKuSmPYtrzUF2r5XADVE153wyRXW7QzY5JyhhNbXsUbyJjkJxTwChO24JBM3YgD\nuu8XF9v0tQYdRaM72tShVRMEtdDl8ngovy7nEGBZvXZXOwl29mJECaHsP1wrp4uc\n9fExbxVIHVagSLco+VF+t9Sb\n-----END PRIVATE KEY-----\n",
+  "client_email": "pranjal@messenger-53418.iam.gserviceaccount.com",
+  "client_id": "105188352898361436199",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pranjal%40messenger-53418.iam.gserviceaccount.com"
+}
